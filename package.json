@@ -1,0 +1,15 @@
+{
+  "name": "covid-19",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^10.6.0",
+    "moment": "^2.24.0",
+    "turndown": "^6.0.0",
+    "word-wrap": "^1.2.3"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
